@@ -1,5 +1,5 @@
 //MasterMind
-//MSG Mike Simpson
+//Mike Simpson
 
 #include <stdio.h>
 #include <stdlib.h>//srand
